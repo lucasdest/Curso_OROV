@@ -1,0 +1,79 @@
+LOCUS       KP052852                 958 bp    cRNA    linear   VRL 04-MAR-2015
+DEFINITION  Oropouche virus strain BeAn19991 segment S, complete sequence.
+ACCESSION   KP052852
+VERSION     KP052852.1
+KEYWORDS    .
+SOURCE      Oropouche virus
+  ORGANISM  Oropouche virus
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Bunyaviricetes; Elliovirales; Peribunyaviridae;
+            Orthobunyavirus; Orthobunyavirus oropoucheense.
+REFERENCE   1  (bases 1 to 958)
+  AUTHORS   Acrani,G.O., Tilston-Lunel,N.L., Spiegel,M., Weidmann,M.,
+            Dilcher,M., Andrade da Silva,D.E., Nunes,M.R. and Elliott,R.M.
+  TITLE     Establishment of a minigenome system for Oropouche virus reveals
+            the S genome segment to be significantly longer than reported
+            previously
+  JOURNAL   J. Gen. Virol. 96 (PT 3), 513-523 (2015)
+   PUBMED   25491420
+REFERENCE   2  (bases 1 to 958)
+  AUTHORS   Tilston-Lunel,N.L., Acrani,G.O. and Elliott,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-OCT-2014) MRC-Centre for Virus Research, University
+            of Glasgow, 464 Bearsden Road, Glasgow, Scotland G61 1QH, UK
+COMMENT     GenBank Accession Numbers KP052850-KP052852 represent sequences
+            from the 3 segments of Oropouche virus strain BeAn19991.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..958
+                     /organism="Oropouche virus"
+                     /mol_type="viral cRNA"
+                     /strain="BeAn19991"
+                     /host="Bradypus tridactylus"
+                     /db_xref="taxon:118655"
+                     /segment="S"
+                     /geo_loc_name="Brazil"
+                     /collection_date="1960"
+     gene            45..740
+                     /gene="N"
+     CDS             45..740
+                     /gene="N"
+                     /codon_start=1
+                     /product="nucleocapsid protein"
+                     /protein_id="AJE24680.1"
+                     /translation="MSEFIFNDVPQRTTSTFDPEAAYVAFEARYGQVLNAGVVRVFFL
+                     NQKKAKDVLRKTSRPMVDLTFGGVQFAMVNNHFPQFQSNPVPDNGLTLHRLSGYLARW
+                     AFTQMRSPIKQAEFRATVVVPLAEVKGCTWNDGDAMYLGFAAGAEMFLQTFTFFPLVI
+                     EMHRVLKDGMDVNFMKKVLRQRYGQKTAEQWMREEIVAVRAAFEAVGTLAWARTGFSP
+                     AARDFLRQFGIDI"
+     gene            67..342
+                     /gene="NSs"
+     CDS             67..342
+                     /gene="NSs"
+                     /codon_start=1
+                     /product="nonstructural protein"
+                     /protein_id="AJE24681.1"
+                     /translation="MYHNGLHLHLIRRQHMWHLKLDTDKCSMLVLLESSSSTKRRPKM
+                     SYVRHRGPWLTLLLVGSNLQWLITISHSSSRIQCRTTVLPCTVCQDT"
+ORIGIN      
+        1 agtagtgtac tccacaattc aaaacataaa aagaaattcc aataatgtca gagttcattt
+       61 tcaacgatgt accacaacgg actacatcta catttgatcc ggaggcagca tatgtggcat
+      121 ttgaagctag atacggacaa gtgctcaatg ctggtgttgt tagagtcttc ttcctcaacc
+      181 aaaagaaggc caaagatgtc ttacgtaaga catcgaggcc catggttgac cttacttttg
+      241 gtggggtcca atttgcaatg gttaataacc atttcccaca gttccagtcg aatccagtgc
+      301 cggacaacgg tcttaccctg caccgtctgt caggatacct agcgcgctgg gcctttaccc
+      361 agatgcgatc accaattaag caagctgagt tcagagccac tgtagtagtg cctttggctg
+      421 aggtaaaggg ctgtacttgg aatgatggtg acgcaatgta cctggggttt gctgctggtg
+      481 ctgagatgtt cctgcaaaca ttcactttct tccctttggt gattgagatg catagggttc
+      541 tcaaggatgg catggatgtc aactttatga agaaagtcct ccggcaacgg tatggccaaa
+      601 agactgccga gcaatggatg cgtgaagaaa tagttgctgt aagagcagct tttgaagctg
+      661 taggcactct ggcctgggcc agaactggat tctccccagc agcaagagac ttcttgcgcc
+      721 aattcggaat tgacatatag tggagtacag taaacaaata aaatataaaa cacaaaaaaa
+      781 caacaaaaaa agaaataaaa taacaaaaat acaaaaaaat taaaaaatat ataaaataaa
+      841 taaaaaaagt gcgaaagcac aaaaaaagaa ctgcagctgt aatattataa agggttgggt
+      901 ggttggggaa agctatgtca ttttagaaaa cgtatttttg aattgggagc acactact
+//
+

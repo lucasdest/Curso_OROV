@@ -1,0 +1,28 @@
+field	value	color
+location	Brazil	#1f77b4
+location	Peru	#aec7e8
+location	Cuba	#ff7f0e
+location	Venezuela	#ffbb78
+location	Haiti	#2ca02c
+location	Italy	#98df8a
+location	Colombia	#d62728
+location	French_Guiana	#ff9896
+location	Ecuador	#9467bd
+location	Panama	#c5b0d5
+location	Trinidad_and_Tobago	#8c564b
+location	Unknown	#808080
+host	Bradypus tridactylus	#1f77b4
+host	Callithrix penicillata	#aec7e8
+host	Homo sapiens	#ff7f0e
+host	Culicoides paraensis	#ffbb78
+host	Culex quinquefasciatus	#2ca02c
+host	Ochlerotatus serratus	#98df8a
+host	Callithrix sp.	#d62728
+host	Cebus sp.	#ff9896
+host	Nasua nasua	#9467bd
+host	Unknown	#808080
+clade	Unknown	#808080
+clade	MDDV	#aec7e8
+clade	JATV	#ff7f0e
+clade	IQTV	#ffbb78
+clade	PEDV	#2ca02c
